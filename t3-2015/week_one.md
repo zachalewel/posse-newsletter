@@ -1,4 +1,4 @@
-# Week One Confessions from our Ruby on Rails Student Developer Posse
+## Week One Confessions from our Ruby on Rails Student Developer Posse
 
 ### To the DaVinci Community,
 
