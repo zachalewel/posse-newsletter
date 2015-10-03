@@ -64,9 +64,9 @@ Sincerely,
 
 Boole posse, t3-2015
 
-Tim Park
-Danny Debevec
-Sue Uyetake
-Matt Michnal
-Riley Jones 
+Tim Park,
+Danny Debevec,
+Sue Uyetake,
+Matt Michnal,
+Riley Jones
 
