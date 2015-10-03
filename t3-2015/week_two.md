@@ -63,6 +63,7 @@ The overall theme of week two involved applying lessons about how coders can wor
 Sincerely,
 
 Boole posse, t3-2015
+
 Tim Park
 Danny Debevec
 Sue Uyetake
