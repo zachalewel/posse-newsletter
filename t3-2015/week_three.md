@@ -37,7 +37,7 @@ Sincerely,
 The von Drais Posse
 
 aka
-Ryan Nance
-Richard Beasley
-Zach Alewel
-Nyla Logsden-Sackett
+* Ryan Nance
+* Richard Beasley
+* Zach Alewel
+* Nyla Logsden-Sackett
