@@ -29,8 +29,15 @@ Each student has also begun sharing stories, experiences and things they’ve le
 * From Sue Yetake:  “ . . . to Andrew Lampert, Wendy Brannon, and Tim Park for Monday’s mac setup and navigation assistances. The lessons sank in and really made a difference in my work.”
 * From Ryan: “. . . to Zach and Tim for sharing their knowledge and helping me keep up!!”
 * From Lucas: “. . . to Peter Ko (PKO) for helping figure out my .vimrc so I can use beats in real time!”
-* From Tim: “. . . to Piper Niehaus and Andy Lamperyt for meeting with the Boole Posse and helping us get more comfortable with using Git!”
-* From Andy: “. . . to Jason for being awesome as hell.”
+* From Tim: “. . . to Piper Niehaus and Andy Lampert for meeting with the Boole Posse and helping us get more comfortable with using Git!”
+* From Andy: “. . . to Jason Noble for being awesome as hell.”
 * From Nyla: “. . . to John Williams and Aaron Glasenapp for meeting with our posse and sharing their wisdom, and for a priceless screenhero session! And to Zach Alewel for his ongoing help!”
 
+Sincerely,
+The von Drais Posse
 
+aka
+Ryan Nance
+Richard Beasley
+Zach Alewel
+Nyla Logsden-Sackett
